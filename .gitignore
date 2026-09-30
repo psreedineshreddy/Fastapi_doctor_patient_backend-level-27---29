@@ -1,0 +1,6 @@
+
+.env
+doctor_patient.db
+.DS_Store
+__pycache__/
+*.pyc
